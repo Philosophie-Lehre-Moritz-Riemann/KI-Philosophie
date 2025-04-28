@@ -69,7 +69,7 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 
 Montags 18 Uhr, Bach-Saal des Musikwissenschaftlichen Instituts, RHS 3 oder [Virtuell](https://uni-kiel.zoom-x.de/j/6956409918?pwd=ME5iY3VCWnZCU2tVYzdnSm5LS2lndz09) 
 
-Einzeltermine siehe [Plakat](CAU_RV_(IN)VISI_POSTER_B_WEB.pdf)
+Einzeltermine siehe [Plakat](CAU_RV_DIGI.pdf)
 
 
 ## 1. Sitzung am 28.04.2025 
