@@ -40,14 +40,25 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 |------------|------------------------------|---------|
 | 05.05.2025 | Kritik der Digitalisierung, S. 13-37 | Kein Referat |
 | 12.05.2025 | Kritik der Digitalisierung, S. 37-59 |  Kein Referat |
-| 19.05.2025 | Referate I: Geschichte KI, Technische Grundlagen LLM/Neuronale Netze| N.N. |
+| 19.05.2025 | Referate I (z.B. Geschichte KI, Technische Grundlagen LLM/Neuronale Netze)| N.N. |
 | 26.05.2025 |Kritik der Digitalisierung, S. 61-80|  Kein Referat |
 | 02.06.2025 | Kritik der Digitalisierung, S. 80-96 |  Kein Referat |
 | 09.06.2025| **Keine Sitzung, Pfingsten**| -- |
 | 16.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Ethik); Kritik der Digitalisierung, S. 97-126 | N.N. |
-| 23.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Autorschaftschaft); Kritik der Digitalisierung, S. 126-150 | N.N. |
+| 23.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Autorschaft); Kritik der Digitalisierung, S. 126-150 | N.N. |
 | 30.06.2025 |Referate 2: | N.N. |
 | 07.07.2025| **Abschlussdiskussion** | -- |
+
+
+>Achtung: In diesem Seminar gibt es keine wöchentlichen Sitzungsreferate, sondern ausschließlich ergänzende, selbstständig zu erforschende Referate zu philosophischen Aspekten von KI.
+
+>Mögliche Themen:
+* (Ideen)Geschichte der Künstlichen Intelligenz
+* Technische Grundlagen, insbesondere von LLM, Machine Learning, Neuronalen Netzen
+* Ethische Probleme von KI
+* Politische Ökonomie der KI
+* KI und Autorschaft; Was ist ein Text?
+* Human/Computer-Interaction  
 
 **Prüfungszeitraum des aktuellen Semesters**:
 14.07. - 26.07.2025
@@ -69,7 +80,7 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 
 Montags 18 Uhr, Bach-Saal des Musikwissenschaftlichen Instituts, RHS 3 oder [Virtuell](https://uni-kiel.zoom-x.de/j/6956409918?pwd=ME5iY3VCWnZCU2tVYzdnSm5LS2lndz09) 
 
-Einzeltermine siehe [Plakat](CAU_RV_DIGI.pdf)
+Einzeltermine siehe [Plakat](https://www.uni-kiel.de/fileadmin/user_upload/veranstaltungen/ringvorlesungen/CAU_RV__IN_VISI_POSTER_B_WEB-1.pdf)
 
 
 ## 1. Sitzung am 28.04.2025 
