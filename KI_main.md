@@ -96,13 +96,13 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 |------------|------------------------------|---------|
 | 05.05.2025 | Kritik der Digitalisierung, S. 13-37 | Kein Referat |
 | 12.05.2025 | Kritik der Digitalisierung, S. 37-59 |  Kein Referat |
-| 19.05.2025 | Referate I (z.B. Geschichte KI, Technische Grundlagen LLM/Neuronale Netze)| N.N. |
+| 19.05.2025 | Referate I (z.B. Geschichte KI, Technische Grundlagen LLM/Neuronale Netze)| Geschichte: N.N. ; Technik: Arvid Lepsien, Aleyna Soylu, Merve Örnek |
 | 26.05.2025 |Kritik der Digitalisierung, S. 61-80|  Kein Referat |
 | 02.06.2025 | Kritik der Digitalisierung, S. 80-96 |  Kein Referat |
 | 09.06.2025| **Keine Sitzung, Pfingsten**| -- |
-| 16.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Ethik); Kritik der Digitalisierung, S. 97-126 | N.N. |
-| 23.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Autorschaft); Kritik der Digitalisierung, S. 126-150 | N.N. |
-| 30.06.2025 |Referate 2: | N.N. |
+| 16.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Ethik); Lektüre: Kritik der Digitalisierung, S. 97-126 | Lisa Claussen, Marcel Krüger, N.N. |
+| 23.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Autorschaft); Lektüre: Kritik der Digitalisierung, S. 126-150 | Şeyda Okumuş, N.N. |
+| 30.06.2025 | Referate | Human/Computer-Interaction: Bjarne Koch, N.N.;  |
 | 07.07.2025| **Abschlussdiskussion** | -- |
 
 
