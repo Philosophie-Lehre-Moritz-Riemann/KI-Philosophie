@@ -147,3 +147,24 @@ Daniel M. Feige, Kritik der Digitalisierung, S. 7-12
 
 [Artificial Intelligence in der Stanford Encyclopedia](https://plato.stanford.edu/entries/artificial-intelligence/)
 
+
+## 2. Sitzung am 05.05.2025
+
+Textgrundlage:
+
+Daniel M. Feige, Kritik der Digitalisierung, S. 13--37.
+
+1. Referatsthemen
+2. Anschluss an die letzte Sitzung / Einleitung
+3. Gruppenarbeit
+
+### Gruppenaufgabe
+
+   >Bildet vier Gruppen. Diskutiert die Euch zugewiesenen Textabschnitte und ordnet Feiges Argumente ein. Stellt Eure Ergebnisse anschließend im Plenum vor. Ihr habt 25 Minuten Zeit.
+   > - Gruppe 1: Revisionistische Diskurse (S. 16--21)
+   > - Gruppe 2:  Deflationistische Diskurse (S. 22--25)
+   > - Gruppe 3: Technik und Gebrauch (S. 25--33)
+   > - Gruppe 4: Design und Technik (S. 33--37)
+
+
+
