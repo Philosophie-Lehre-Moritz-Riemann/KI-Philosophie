@@ -167,4 +167,13 @@ Daniel M. Feige, Kritik der Digitalisierung, S. 13--37.
    > - Gruppe 4: Design und Technik (S. 33--37)
 
 
+## 3. Sitzung am 12.05.2025
 
+Textgrundlage:
+
+Daniel M. Feige, Kritik der Digitalisierung, S. 37--59.
+
+
+### Vorbereitung nächste Woche:
+
+Jerry Kaplan, Generative AI, Oxford 2024, S. 1--29. (Im OLAT)
