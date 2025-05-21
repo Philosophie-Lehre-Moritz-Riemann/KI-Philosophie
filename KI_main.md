@@ -177,3 +177,80 @@ Daniel M. Feige, Kritik der Digitalisierung, S. 37--59.
 ### Vorbereitung nächste Woche:
 
 Jerry Kaplan, Generative AI, Oxford 2024, S. 1--29. (Im OLAT)
+
+
+## 4. Sitzung am 19.05.2025
+
+**Geschichte der AI**
+
+Referat: Emma Gräfe, Daniel Klösel
+
+**Technische Grundlagen**
+
+Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
+
+## 5. Sitzung am 26.05.2025
+
+### Generalthese
+
+### Think + Pair
+
+### Realism of Virtual Reality
+
+
+>Bevor ich diese Überlegungen nun mit Blick auf die Neufassung unserer Praxis im Rahmen des Vordringens der Informations- und
+Kommunikationstechnologien weiterspinnen werde, noch eine Bemerkung zum Status der stabilisierten und in und durch unser
+Handeln immer wieder aktualisierten gesellschaftlichen Realität. Sie lautet: Nichts an ihr ist deshalb weniger real gegenüber den
+Phänomenen, die die Naturwissenschaften untersuchen, nur weil es sich um etwas handelt, was von uns kollektiv hervorgebracht und
+aufrechterhalten wird. Das gilt auch für die Praxiszusammenhänge, in die zunehmend Informations- und Kommunikationstechnologien
+eingeschrieben werden. Dadurch, dass sie nicht notwendig sind, dass sie einen historischen Index tragen und dass sich ihre Rolle durch unser kollektives Tun verwirklicht, sind sie nicht weniger real.
+
+
+>Für diese Bemerkung lässt sich in heterodoxer Weise auch auf die von David Chalmers jüngst vorgenommene Verteidigung eines
+Realismus der virtuellen Realität verweisen. Chalmers argumentiert dafür, dass virtuelle Realität schlicht und einfach Realität einer besonderen Art ist, und grenzt sich damit von Positionen ab, die er als fiktionalistisch oder illusionistisch beschreibt. Seinen Gegner macht er schwächer, als er sein müsste, denn auch von fiktionalen Gegenständen kann man im Anschluss unter anderem an Kendall Walton natürlich sagen, dass Aussagen über sie wahr oder falsch sein können, so dass sie nicht einfach das sind, was wir ›bloß‹ denken oder imaginieren. Nichtsdestotrotz hat Chalmers recht damit, die virtuelle Realität gegenüber der sonstigen Realität ontologisch nicht herabzustufen. Zugleich bietet er eine plausible Definition des Begriffs der virtuellen Realität an: Sie ist immersiv (in dem Sinne, dass sie den Nutzern und Nutzerinnen eine Wahrnehmungserfahrung bietet, die aus einer Perspektive innerhalb dieser Welt gegeben ist), sie ist interaktiv und sie basiert auf einer durch Computer generierten
+Umgebung. Was den möglichen Wert virtueller Realität angeht, muss man Chalmers hier nicht folgen; aus der Perspektive
+einer kritischen Theorie sind die potentiellen Möglichkeiten in Wahrheit präfiguriert von handgreiflichen Herrschaftsverhältnissen, so dass fragwürdig ist, ob wir ein Leben in der virtuellen Realität tatsächlich auf dieselbe Stufe stellen sollten wie ein Leben in der Realität. Nicht allein gibt sich im ersteren Fall die geschaffene Realität potentiell den entsprechenden Herrschaftsverhältnissen reibungslos hin. Vielmehr bleibt es zu erklären, warum wir uns überhaupt eine zweite Realität erschaffen.
+
+
+>Aber all das spricht nicht gegen Chalmers Punkt, dass virtuelle Realität selbst eine Form der Realität ist. Denn wenn ich in der
+virtuellen Realität ein rotes Objekt betrachten, so steht nicht nur mir die Möglichkeit dieser Betrachtung offen. Vielmehr kann jeder beliebige Avatar, der sich durch diese virtuelle Realität bewegt, unter normalen Wahrnehmungsbedingungen sehen, dass das entsprechende virtuelle Objekt hier virtuell rot ist. Die Redeweise eines ›virtuell roten virtuellen Objekts‹ ist hier deshalb vonnöten, weil die digitalen Objekte, auf denen virtuelle Objekte nach Chalmers Meinung supervenieren, selbst natürlich nicht rot sind. Aufgrund seiner funktionalistischen Bestimmung von Wahrnehmungsprädikaten kann Chalmers hier eine Isomorphie behaupten, was gewährleistet, dass dieselben Prädikate für Objekte und für virtuelle Objekte Anwendung finden.
+
+
+>Allerdings ist gerade die Idee, dass virtuellen Objekten digitale Objekte entsprechen, problematisch:85 Die Übersetzungsleistung, die ich anhand der Schlagworte ›Blackboxing‹, ›Datifizierung‹ und ›Alterisierung‹ zu fassen versucht habe, wird von Chalmers zu reibungslos verstanden und unter Ausblendung der spezifischen Neuprägung unserer Praxis durch sie erläutert. Aber auch aus der Perspektive einer kritischen Theorie der Digitalisierung spricht nichts gegen Chalmers schlichtes Argument für den Realismus der virtuellen Realität.
+
+
+(Feige, S. 52ff.)
+
+
+>There is no universally accepted definition of virtual reality, and the concept exhibits some vagueness and flexibility. Still there is a common core to most uses and definitions of the term. Capturing this core, I will say that a **virtual reality environment is an immersive, interactive, computer-generated environment**. In effect, being
+computer-generated makes these environments virtual (as on the
+second definition above), and being immersive and interactive makes
+our experience of them at least akin to ordinary reality. The three
+key notions of immersion, interaction, and computer-generation can
+be explained as follows.
+Immersion: An immersive environment is one that generates perceptual
+experience of the environment from a perspective within
+it, giving the user the sense of “presence”: that is, the sense of really
+being present at that perspective.5 Typically this involves inputs
+that yield a visual experience as of a three-dimensional environment,
+perhaps along with auditory and other sensory elements. In the present
+day, a paradigm of immersive VR technology involves a headset
+with a stereoscopic display. In the future one can imagine that
+glasses, contact lenses, or implants could accomplish the same thing.
+Interaction: An environment is interactive when actions by the user
+make a significant difference to what happens in the environment. In
+current VR, this interaction takes place through the use of input
+devices such as head- and body-tracking tools, handheld controllers,or even a computer keyboard.
+Computer generation: An environment is computer-generated when
+it is grounded in a computational process such as a computer simulation,
+which generates the inputs that are processed by the user’s
+sensory organs. In current VR this computation usually takes place
+either in a fixed computer connected to a headset display or in a mobile
+computer (such as a smartphone) embedded in a headset using
+its own display.
+We can also say that virtual reality technology is technology that sustains
+virtual reality environments. “Virtual reality” as a count noun
+is roughly synonymous with “virtual reality environment”, while as
+a mass noun it covers both virtual reality environments and virtual
+reality technology. The term “virtual reality” is often used in looser ways than this— sometimes so loose as to include almost any nonstandard means of generating experiences as of an external environment. To allow distinctions between grades of VR, we might say that “VR proper” is virtual reality that satisfies all three conditions above. We can then capture more inclusive notions of virtual reality by removing these conditions. We can start by removing the three conditions one at a time. Nonimmersive VR includes computer-generated interactive environments displayed on desktop computer or television screens, as with many familiar videogames. Noninteractive VR includes passive immersive simulations such as computer-generated movies presented on a VR headset. Non-computer-generated VR includes immersive and interactive camera-generated environments, such as the remotecontrolled robotic VR sometimes used in medicine. The label of VR is also sometimes applied to environments satisfying just one of the three conditions: immersiveness (e.g. movies filmed with 360-degree cameras and displayed on a headset), interactiveness (e.g. remote control of a robot using a desktop display of its perspective), or computer generation (e.g. a computer-generated movie displayed on a desktop). The label is not typically applied to environments that satisfy none of the three conditions, such as ordinary (two-dimensional, passive, camera-based) movies and television shows. That said, it is interesting to note that the term “la realité virtuelle” was first introduced by Antonin Artaud (1938) to apply to the theatre, which is typically noninteractive and non-computer-generated and arguably nonimmersive. There are also intermediate cases. So-called mixed reality involves immersive and interactive environments that are partly physical and partly computer-generated. The paradigm case of mixed reality is augmented reality where virtual objects are added to an ordinary physical environment. Mixed reality is typically contrasted with VR, but it can also be considered as VR in an extended sense. Ordinary unaugmented physical environments are also immersive and interactive, but they are not usually considered to be VR, except perhaps by people who think that the external world is computer-generated or that it is a mind-generated construction.
+
