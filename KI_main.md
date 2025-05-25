@@ -196,29 +196,29 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 
 Willkommen zu den Ausgangsüberlegungen! Klicke auf die Themen unten, um mehr zu erfahren.
 
-<button onclick="toggleSection('digitalisierung')">Digitalisierung ▼</button>
+<button class="toggle-btn" onclick="toggleSection('digitalisierung')">Digitalisierung ▼</button>
 
-<div id="digitalisierung" style="display:none; margin-top: 1em; padding-left: 1em; border-left: 3px solid purple;">
+<div id="digitalisierung" class="section" style="display:none;">
 
 ## Digitalisierung
 
-<button onclick="toggleSection('definition')">Definition</button>
-<div id="definition" style="display:none; margin-left: 1em; margin-top: 0.5em;">
+<button class="toggle-btn" onclick="toggleSection('definition')">Definition</button>
+<div id="definition" class="subsection" style="display:none;">
 Digitalisierung, verstanden als Datifizierung der Wirklichkeit (S.8),  
 ist eine Übersetzung in eine vielen Gegenständen erst einmal fremde Ordnung –  
 und mittelbar die Hervorbringung solcher Gegenstände, für die diese Ordnung ein natürliches Habitat ist (S. 45).
 </div>
 
-<button onclick="toggleSection('logik')">Logik</button>
-<div id="logik" style="display:none; margin-left: 1em; margin-top: 0.5em;">
+<button class="toggle-btn" onclick="toggleSection('logik')">Logik</button>
+<div id="logik" class="subsection" style="display:none;">
 Digitalisierung ist in der ökonomischen Grammatik eingeschrieben.  
 Es ist ein Prozess, der mit dem Strukturwandel des Kapitalismus verbunden ist und dessen Stand heute so aussieht,  
 dass eine begrenzte Zahl von first class (Google, Apple) und Second class (Facebook, Twitter) Tech-Konzernen  
 sich von den entsprechenden Märkten, die sie bedienen, faktisch ununterscheidbar gemacht haben (S. 55).
 </div>
 
-<button onclick="toggleSection('datifizierung')">Datifizierung</button>
-<div id="datifizierung" style="display:none; margin-left: 1em; margin-top: 0.5em;">
+<button class="toggle-btn" onclick="toggleSection('datifizierung')">Datifizierung</button>
+<div id="datifizierung" class="subsection" style="display:none;">
 Verstanden als eine spezifische Übersetzungsleistung, auf denen Informations- und Kommunikationstechnologien aufruhen.  
 Denn damit diese Technologien in unserer Praxis wirksam werden, bedarf es einer Neufassung dessen,  
 was in der Praxis relevant ist, in Form von Daten (S. 31).
@@ -226,18 +226,47 @@ was in der Praxis relevant ist, in Form von Daten (S. 31).
 
 </div>
 
+<style>
+  button.toggle-btn {
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+    padding: 0.4em 0.8em;
+    margin: 0.5em 0;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  button.toggle-btn:hover {
+    background-color: #8b2ddb;
+  }
+  .section {
+    margin-left: 1em;
+    border-left: 3px solid #6a0dad;
+    padding-left: 1em;
+  }
+  .subsection {
+    margin-left: 1em;
+    padding: 0.3em 0.6em;
+    background-color: #f3e5ff;
+    border-radius: 4px;
+    margin-bottom: 0.6em;
+  }
+</style>
+
 <script>
 function toggleSection(id) {
   const section = document.getElementById(id);
   const isVisible = section.style.display === 'block';
-  // Alle Sektionen verstecken (optional: damit nur eine offen ist)
+  // Schließe alle Sektionen & Untersektionen
   ['digitalisierung','definition','logik','datifizierung'].forEach(s => {
     document.getElementById(s).style.display = 'none';
   });
-  // Gewählten Bereich umschalten
-  section.style.display = isVisible ? 'none' : 'block';
+  // Öffne den ausgewählten Bereich, falls er nicht offen war
+  if (!isVisible) section.style.display = 'block';
 }
 </script>
+
 
 
 ### Think + Pair
