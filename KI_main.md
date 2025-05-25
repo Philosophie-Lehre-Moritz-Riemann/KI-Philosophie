@@ -192,7 +192,7 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 ## 5. Sitzung am 26.05.2025
 
 ### Generalthese
-[Argumentationsaufbau](argumentation.html)
+[Argumentationsaufbau](file:///Users/aeit/Nextcloud2/KI-Philosophie/argumentation.html)
 
 ### Think + Pair
 
