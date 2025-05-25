@@ -192,6 +192,53 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 ## 5. Sitzung am 26.05.2025
 
 ### Generalthese
+# Ausgangsüberlegungen
+
+Willkommen zu den Ausgangsüberlegungen! Klicke auf die Themen unten, um mehr zu erfahren.
+
+<button onclick="toggleSection('digitalisierung')">Digitalisierung ▼</button>
+
+<div id="digitalisierung" style="display:none; margin-top: 1em; padding-left: 1em; border-left: 3px solid purple;">
+
+## Digitalisierung
+
+<button onclick="toggleSection('definition')">Definition</button>
+<div id="definition" style="display:none; margin-left: 1em; margin-top: 0.5em;">
+Digitalisierung, verstanden als Datifizierung der Wirklichkeit (S.8),  
+ist eine Übersetzung in eine vielen Gegenständen erst einmal fremde Ordnung –  
+und mittelbar die Hervorbringung solcher Gegenstände, für die diese Ordnung ein natürliches Habitat ist (S. 45).
+</div>
+
+<button onclick="toggleSection('logik')">Logik</button>
+<div id="logik" style="display:none; margin-left: 1em; margin-top: 0.5em;">
+Digitalisierung ist in der ökonomischen Grammatik eingeschrieben.  
+Es ist ein Prozess, der mit dem Strukturwandel des Kapitalismus verbunden ist und dessen Stand heute so aussieht,  
+dass eine begrenzte Zahl von first class (Google, Apple) und Second class (Facebook, Twitter) Tech-Konzernen  
+sich von den entsprechenden Märkten, die sie bedienen, faktisch ununterscheidbar gemacht haben (S. 55).
+</div>
+
+<button onclick="toggleSection('datifizierung')">Datifizierung</button>
+<div id="datifizierung" style="display:none; margin-left: 1em; margin-top: 0.5em;">
+Verstanden als eine spezifische Übersetzungsleistung, auf denen Informations- und Kommunikationstechnologien aufruhen.  
+Denn damit diese Technologien in unserer Praxis wirksam werden, bedarf es einer Neufassung dessen,  
+was in der Praxis relevant ist, in Form von Daten (S. 31).
+</div>
+
+</div>
+
+<script>
+function toggleSection(id) {
+  const section = document.getElementById(id);
+  const isVisible = section.style.display === 'block';
+  // Alle Sektionen verstecken (optional: damit nur eine offen ist)
+  ['digitalisierung','definition','logik','datifizierung'].forEach(s => {
+    document.getElementById(s).style.display = 'none';
+  });
+  // Gewählten Bereich umschalten
+  section.style.display = isVisible ? 'none' : 'block';
+}
+</script>
+
 
 ### Think + Pair
 
