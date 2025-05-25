@@ -194,49 +194,25 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 ### Generalthese
 # Argumentationsstruktur: Digitalisierung
 
-<!--
-LiaScript
-Author: Du
--->
 
-## 🧭 Strukturdiagramm (visuell)
+---
 
-```ascii
-Ausgangsüberlegungen
-       |
-       v
- Digitalisierung
-    /    |     \
-   v     v      v
-Definition  Logik  Datifizierung
+## 📌 Interaktiver Argumentationsbaum (Mermaid)
 
+```mermaid
+graph TD
+    A[Ausgangsüberlegungen]
+    A --> B[Digitalisierung]
 
- Digitalisierung
-📌 Digitalisierung
+    B --> B1[Definition]
+    B1 --- B1T["Digitalisierung, verstanden als Datifizierung der Wirklichkeit (S. 8) ist eine Übersetzung in eine vielen Gegenständen erst einmal fremde Ordnung – und mittelbar die Hervorbringung solcher Gegenstände, für die diese Ordnung ein natürliches Habitat ist. (S. 45)"]
 
-Digitalisierung ist ein zentraler Begriff dieser Überlegungen. Er lässt sich weiter aufschlüsseln in:
+    B --> B2[Logik]
+    B2 --- B2T["Digitalisierung ist in der ökonomischen Grammatik eingeschrieben. Ein Prozess, der mit dem Strukturwandel des Kapitalismus verbunden ist – eine begrenzte Zahl von First-Class- (Google, Apple) und Second-Class-Konzernen (Facebook, Twitter) hat sich faktisch ununterscheidbar von ihren Märkten gemacht. (S. 55)"]
 
- Definition
-Digitalisierung, verstanden als Datifizierung der Wirklichkeit (S. 8),
-ist eine Übersetzung in eine vielen Gegenständen erst einmal fremde Ordnung –
-und mittelbar die Hervorbringung solcher Gegenstände,
-für die diese Ordnung ein natürliches Habitat ist.
-(S. 45)
- Logik
-Digitalisierung ist in der ökonomischen Grammatik eingeschrieben.
-Es ist ein Prozess, der mit dem Strukturwandel des Kapitalismus verbunden ist
-und dessen Stand heute so aussieht,
-dass eine begrenzte Zahl von First-Class- (Google, Apple) und
-Second-Class-Tech-Konzernen (Facebook, Twitter)
-sich von den Märkten, die sie bedienen, faktisch ununterscheidbar gemacht haben.
-(S. 55)
- Datifizierung
-Verstanden als eine spezifische Übersetzungsleistung,
-auf denen Informations- und Kommunikationstechnologien aufruhen.
-Damit diese Technologien in unserer Praxis wirksam werden,
-bedarf es einer Neufassung dessen, was in der Praxis relevant ist –
-in Form von Daten.
-(S. 31)
+    B --> B3[Datifizierung]
+    B3 --- B3T["Datifizierung als spezifische Übersetzungsleistung: Technologien werden wirksam, indem sie Relevanz neu definieren – in Form von Daten. (S. 31)"]
+
 
 ### Think + Pair
 
