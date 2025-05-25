@@ -192,27 +192,7 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 ## 5. Sitzung am 26.05.2025
 
 ### Generalthese
-# Argumentationsstruktur: Digitalisierung
-
-
----
-
-## 📌 Interaktiver Argumentationsbaum (Mermaid)
-
-```mermaid
-graph TD
-    A[Ausgangsüberlegungen]
-    A --> B[Digitalisierung]
-
-    B --> B1[Definition]
-    B1 --- B1T["Digitalisierung, verstanden als Datifizierung der Wirklichkeit (S. 8) ist eine Übersetzung in eine vielen Gegenständen erst einmal fremde Ordnung – und mittelbar die Hervorbringung solcher Gegenstände, für die diese Ordnung ein natürliches Habitat ist. (S. 45)"]
-
-    B --> B2[Logik]
-    B2 --- B2T["Digitalisierung ist in der ökonomischen Grammatik eingeschrieben. Ein Prozess, der mit dem Strukturwandel des Kapitalismus verbunden ist – eine begrenzte Zahl von First-Class- (Google, Apple) und Second-Class-Konzernen (Facebook, Twitter) hat sich faktisch ununterscheidbar von ihren Märkten gemacht. (S. 55)"]
-
-    B --> B3[Datifizierung]
-    B3 --- B3T["Datifizierung als spezifische Übersetzungsleistung: Technologien werden wirksam, indem sie Relevanz neu definieren – in Form von Daten. (S. 31)"]
-
+[Argumentationsaufbau](file:///Users/aeit/Nextcloud2/KI-Philosophie/argumentation.html )
 
 ### Think + Pair
 
