@@ -195,18 +195,15 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 
 # Ausgangsüberlegungen
 
-## 🧠 Mind Map: Digitalisierung
 
-``` mindmap
-# Ausgangsüberlegungen
-## Digitalisierung
-### Definition
-Digitalisierung, verstanden als Datifizierung der Wirklichkeit (S.8), „ist eine Übersetzung in eine vielen Gegenständen erst einmal fremde Ordnung – und mittelbar die Hervorbringung solcher Gegenstände, für die diese Ordnung ein natürliches Habitat ist.“ (S. 45)
-### Logik
-Digitalisierung ist in der ökonomischen Grammatik eingeschrieben … (S. 55)
-### Datifizierung
-„eine spezifische Übersetzungsleistung, auf denen Informations- und Kommunikationstechnologien aufruhen …“ (S. 31)
-
+```mindmap
+- Lernen
+  - Theorie
+    - Videos
+    - Texte
+  - Praxis
+    - Übungen
+    - Projekte
 
 ### Think + Pair
 
