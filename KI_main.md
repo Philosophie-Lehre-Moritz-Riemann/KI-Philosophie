@@ -189,6 +189,8 @@ Referat: Emma Gräfe, Daniel Klösel
 
 Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 
+[Präsentation und Skript](https://liascript.github.io/course/?https://raw.githubusercontent.com/arvidle/lia-grundlagen-ki/refs/heads/main/referat.md#1)
+
 ## 5. Sitzung am 26.05.2025
 
 ### Generalthese
@@ -228,35 +230,17 @@ virtuellen Realität ein rotes Objekt betrachten, so steht nicht nur mir die Mö
 (Feige, S. 52ff.)
 
 
->There is no universally accepted definition of virtual reality, and the concept exhibits some vagueness and flexibility. Still there is a common core to most uses and definitions of the term. Capturing this core, I will say that a **virtual reality environment is an immersive, interactive, computer-generated environment**. In effect, being
-computer-generated makes these environments virtual (as on the
-second definition above), and being immersive and interactive makes
-our experience of them at least akin to ordinary reality. The three
-key notions of immersion, interaction, and computer-generation can
-be explained as follows.
-Immersion: An immersive environment is one that generates perceptual
-experience of the environment from a perspective within
-it, giving the user the sense of “presence”: that is, the sense of really
-being present at that perspective.5 Typically this involves inputs
-that yield a visual experience as of a three-dimensional environment,
-perhaps along with auditory and other sensory elements. In the present
-day, a paradigm of immersive VR technology involves a headset
-with a stereoscopic display. In the future one can imagine that
-glasses, contact lenses, or implants could accomplish the same thing.
-Interaction: An environment is interactive when actions by the user
-make a significant difference to what happens in the environment. In
-current VR, this interaction takes place through the use of input
-devices such as head- and body-tracking tools, handheld controllers,or even a computer keyboard.
-Computer generation: An environment is computer-generated when
-it is grounded in a computational process such as a computer simulation,
-which generates the inputs that are processed by the user’s
-sensory organs. In current VR this computation usually takes place
-either in a fixed computer connected to a headset display or in a mobile
-computer (such as a smartphone) embedded in a headset using
-its own display.
-We can also say that virtual reality technology is technology that sustains
-virtual reality environments. “Virtual reality” as a count noun
-is roughly synonymous with “virtual reality environment”, while as
-a mass noun it covers both virtual reality environments and virtual
-reality technology. The term “virtual reality” is often used in looser ways than this— sometimes so loose as to include almost any nonstandard means of generating experiences as of an external environment. To allow distinctions between grades of VR, we might say that “VR proper” is virtual reality that satisfies all three conditions above. We can then capture more inclusive notions of virtual reality by removing these conditions. We can start by removing the three conditions one at a time. Nonimmersive VR includes computer-generated interactive environments displayed on desktop computer or television screens, as with many familiar videogames. Noninteractive VR includes passive immersive simulations such as computer-generated movies presented on a VR headset. Non-computer-generated VR includes immersive and interactive camera-generated environments, such as the remotecontrolled robotic VR sometimes used in medicine. The label of VR is also sometimes applied to environments satisfying just one of the three conditions: immersiveness (e.g. movies filmed with 360-degree cameras and displayed on a headset), interactiveness (e.g. remote control of a robot using a desktop display of its perspective), or computer generation (e.g. a computer-generated movie displayed on a desktop). The label is not typically applied to environments that satisfy none of the three conditions, such as ordinary (two-dimensional, passive, camera-based) movies and television shows. That said, it is interesting to note that the term “la realité virtuelle” was first introduced by Antonin Artaud (1938) to apply to the theatre, which is typically noninteractive and non-computer-generated and arguably nonimmersive. There are also intermediate cases. So-called mixed reality involves immersive and interactive environments that are partly physical and partly computer-generated. The paradigm case of mixed reality is augmented reality where virtual objects are added to an ordinary physical environment. Mixed reality is typically contrasted with VR, but it can also be considered as VR in an extended sense. Ordinary unaugmented physical environments are also immersive and interactive, but they are not usually considered to be VR, except perhaps by people who think that the external world is computer-generated or that it is a mind-generated construction.
+>There is no universally accepted definition of virtual reality, and the concept exhibits some vagueness and flexibility. Still there is a common core to most uses and definitions of the term. Capturing this core, I will say that a **virtual reality environment is an immersive, interactive, computer-generated environment**. In effect, being computer-generated makes these environments virtual (as on the second definition above), and being immersive and interactive makes our experience of them at least akin to ordinary reality. The three key notions of immersion, interaction, and computer-generation can be explained as follows.
+>*Immersion*: An immersive environment is one that generates perceptual experience of the environment from a perspective within
+it, giving the user the sense of “presence”: that is, the sense of really being present at that perspective.5 Typically this involves inputs that yield a visual experience as of a three-dimensional environment, perhaps along with auditory and other sensory elements. In the present day, a paradigm of immersive VR technology involves a headset with a stereoscopic display. In the future one can imagine that glasses, contact lenses, or implants could accomplish the same thing.
+>*Interaction*: An environment is interactive when actions by the user make a significant difference to what happens in the environment. In current VR, this interaction takes place through the use of input devices such as head- and body-tracking tools, handheld controllers,or even a computer keyboard. 
+>*Computer generation*: An environment is computer-generated when it is grounded in a computational process such as a computer simulation, which generates the inputs that are processed by the user’s sensory organs. In current VR this computation usually takes place either in a fixed computer connected to a headset display or in a mobile computer (such as a smartphone) embedded in a headset using its own display.
+
+>We can also say that virtual reality technology is technology that sustains virtual reality environments. “Virtual reality” as a count noun is roughly synonymous with “virtual reality environment”, while as a mass noun it covers both virtual reality environments and virtual reality technology. The term “virtual reality” is often used in looser ways than this— sometimes so loose as to include almost any nonstandard means of generating experiences as of an external environment. To allow distinctions between grades of VR, we might say that **“VR proper” is virtual reality that satisfies all three conditions above**. We can then capture more inclusive notions of virtual reality by removing these conditions. We can start by removing the three conditions one at a time. Nonimmersive VR includes computer-generated interactive environments displayed on desktop computer or television screens, as with many familiar videogames. Noninteractive VR includes passive immersive simulations such as computer-generated movies presented on a VR headset. Non-computer-generated VR includes immersive and interactive camera-generated environments, such as the remotecontrolled robotic VR sometimes used in medicine. The label of VR is also sometimes applied to environments satisfying just one of the three conditions: immersiveness (e.g. movies filmed with 360-degree cameras and displayed on a headset), interactiveness (e.g. remote control of a robot using a desktop display of its perspective), or computer generation (e.g. a computer-generated movie displayed on a desktop). The label is not typically applied to environments that satisfy none of the three conditions, such as ordinary (two-dimensional, passive, camera-based) movies and television shows. That said, it is interesting to note that the term “la realité virtuelle” was first introduced by Antonin Artaud (1938) to apply to the theatre, which is typically noninteractive and non-computer-generated and arguably nonimmersive. There are also intermediate cases. So-called mixed reality involves immersive and interactive environments that are partly physical and partly computer-generated. The paradigm case of mixed reality is augmented reality where virtual objects are added to an ordinary physical environment. Mixed reality is typically contrasted with VR, but it can also be considered as VR in an extended sense. Ordinary unaugmented physical environments are also immersive and interactive, but they are not usually considered to be VR, except perhaps by people who think that the external world is computer-generated or that it is a mind-generated construction.
+
+
+(David Chalmers, The Virtual and the Real, Disputatio, Vol. IX, No. 46 2017, S. 309--352)
+
+
+
 
