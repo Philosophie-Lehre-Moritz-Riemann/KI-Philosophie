@@ -102,7 +102,7 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | 09.06.2025| **Keine Sitzung, Pfingsten**| -- |
 | 16.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Ethik); Lektüre: Kritik der Digitalisierung, S. 97-126 | Lisa Claussen, Marcel Krüger, N.N. |
 | 23.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Autorschaft); Lektüre: Kritik der Digitalisierung, S. 126-150 | Şeyda Okumuş, Sahm Kakal |
-| 30.06.2025 | Referate | Human/Computer-Interaction: Bjarne Koch, Juliane Ziemer; Fleming Jensen, Paul Carsten, Sebastian Naudiet |
+| 30.06.2025 | Referate | Human/Computer-Interaction: Bjarne Koch, Juliane Ziemer; AI und Demokratie: Fleming Jensen, Paul Carsten, Sebastian Naudiet |
 | 07.07.2025| **Abschlussdiskussion** | -- |
 
 
