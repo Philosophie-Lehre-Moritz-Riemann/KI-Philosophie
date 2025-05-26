@@ -193,17 +193,6 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 
 ### Generalthese
 
-# Ausgangsüberlegungen
-
-
-```mindmap
-- Lernen
-  - Theorie
-    - Videos
-    - Texte
-  - Praxis
-    - Übungen
-    - Projekte
 
 ### Think + Pair
 
