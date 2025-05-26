@@ -194,6 +194,9 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 ### Generalthese
 
 
+[Zusammenfassung Feige | Stand 26.05.2025](https://www.canva.com/design/DAGoiC9K4t0/1h6NqeDWrlk3y3gl3fqsWg/edit)
+![alt-text](D.%20M.%20Feige%20Zusammenfassung%20%20Stand%2026.06.2025.png)
+
 ### Think + Pair
 
 ### Realism of Virtual Reality
