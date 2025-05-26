@@ -193,7 +193,6 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 
 ### Generalthese
 
-
 [Zusammenfassung Feige | Stand 26.05.2025](https://www.canva.com/design/DAGoiC9K4t0/PD25Al-1pqhzGRDdeFZ5dA/view?utm_content=DAGoiC9K4t0&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
 
 
