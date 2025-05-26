@@ -195,31 +195,18 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 
 # Ausgangsüberlegungen
 
----
-config:
-  theme: redux
-  layout: dagre
----
-flowchart TD
-    B["Digitalisierung"] --> C["Definition"] & D["Logik"] & n1["Datifizierung"]
-    C --> n2@{ label: "<span style=\"padding-left:\">Digitalisierung, verstanden als Datifizierung der Wirklichkeit (S. 8), </span><span style=\"padding-left:\">„ist eine Übersetzung in eine vielen Gegenständen erst einmal fremde Ordnung – </span><span style=\"padding-left:\">und mittelbar die Hervorbringung solcher Gegenstände, </span><span style=\"padding-left:\">für die diese Ordnung ein natürliches Habitat ist“ (S. 45).</span><br>" }
-    D --> n3@{ label: "<span style=\"padding-left:\">Digitalisierung ist in der ökonomischen Grammatik eingeschrieben. </span><span style=\"padding-left:\">Es ist „ein Prozess, der mit dem Strukturwandel des Kapitalismus verbunden ist </span><span style=\"padding-left:\">und dessen Stand heute so aussieht, dass eine begrenzte Zahl von </span><span style=\"padding-left:\">First-Class (Google, Apple) und Second-Class (Facebook, Twitter) </span><span style=\"padding-left:\">Tech-Konzernen sich von den entsprechenden Märkten, die sie bedienen, </span><span style=\"padding-left:\">faktisch ununterscheidbar gemacht haben“ (S. 55).</span><br>" }
-    n1 --> n4@{ label: "<span style=\"padding-left:\">Verstanden als eine „spezifische Übersetzungsleistung, </span><span style=\"padding-left:\">auf denen Informations- und Kommunikationstechnologien aufruhen. </span><span style=\"padding-left:\">Denn damit diese Technologien in unserer Praxis wirksam werden, </span><span style=\"padding-left:\">bedarf es einer Neufassung dessen, was in der Praxis relevant ist, </span><span style=\"padding-left:\">in Form von Daten“ (S. 31).</span><br>" }
-    A["Ausgangsthesen"] --> B
-    B@{ shape: rounded}
-    C@{ shape: rounded}
-    D@{ shape: rounded}
-    n2@{ shape: text}
-    n3@{ shape: text}
-    n4@{ shape: text}
-    A@{ shape: dbl-circ}
-     B:::Rose
-     B:::Sky
-     A:::Sky
-     A:::Rose
-    classDef Rose stroke-width:1px, stroke-dasharray:none, stroke:#FF5978, fill:#FFDFE5, color:#8E2236
-    classDef Sky stroke-width:1px, stroke-dasharray:none, stroke:#374D7C, fill:#E2EBFF, color:#374D7C
-    style n2 color:#00C853
+## 🧠 Mind Map: Digitalisierung
+
+``` mindmap
+# Ausgangsüberlegungen
+## Digitalisierung
+### Definition
+Digitalisierung, verstanden als Datifizierung der Wirklichkeit (S.8), „ist eine Übersetzung in eine vielen Gegenständen erst einmal fremde Ordnung – und mittelbar die Hervorbringung solcher Gegenstände, für die diese Ordnung ein natürliches Habitat ist.“ (S. 45)
+### Logik
+Digitalisierung ist in der ökonomischen Grammatik eingeschrieben … (S. 55)
+### Datifizierung
+„eine spezifische Übersetzungsleistung, auf denen Informations- und Kommunikationstechnologien aufruhen …“ (S. 31)
+
 
 ### Think + Pair
 
