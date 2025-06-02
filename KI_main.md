@@ -253,42 +253,4 @@ We can also say that virtual reality technology is technology that sustains virt
 
 
 
-## 6. Sitzung am 2.06.2025 | Handeln und Leben(sform)
 
-**Fokus:** Begriff des *Handelns*: Ontologie von Handlungen, Logik von Handlungszuschreibungen und Handlungserklärungen 
-
-Bezugnahme auf Elizabeth Anscombe, Donald Davidson, Philippa Foot und Michael Thompson 
-
-**Zentrale These dieses zweiten Teils des zweiten Kapitels:** 
-
-Unter Bezugnahme auf den Handlungsbegriff nach *handlungstheoretischen Kriterien* kann eine KI nicht handeln, „[d]enn um zu handeln, brauchen wir Akteure, die etwas als ein *Gutes* sehen und ihr Tun als Verwirklichung desselben begreifen können. Etwas als ein Gutes zu sehen, ist nur möglich, insofern man *Träger einer Lebensform* ist, die formal durch die *Einheit von Vernunft, Freiheit und Selbstbewusstsein* bestimmt ist.“ (S. 95)
-
-„*Denken und Handeln* sind Begriffe, die wir nur sinnvoll auf Träger einer Lebensform, und zwar einer *bestimmten Lebensform*, anwenden können.“ (S. 80)
-
-### Ontologie von Handlungen, Logik von Handlungsbeschreibungen & Handlungserklärungen 
-
-* **Ontologie von Handlungen (S. 83-85)**
-
-* **Logik von Handlungsbeschreibungen (S.85-86)**
-
-* **Handlungserklärungen (S. 86-89)**
-
-
-## Kann einer KI Handlungsfähigkeit zugeschrieben werden? 
-
-Nein, denn...
-
-* ...
-
-**Leben als Bedingung der Möglichkeit des Denkens und Handelns & die Rolle der spezifischen Lebensform (S. 89-96)**
-
-„Es hängt für den Begriff des Beines nicht alles daran, dass es auf der Grundlage genetischer Informationen gewachsen ist. Es hängt vielmehr daran, dass es Teil eines Lebewesens ist, in deren Lebensvollzügen es eine bestimmte Rolle spielt. Und ob die Lebensform, deren träger das Individuum ist, auf der Grundlage natürlicher Evolution oder anders in die Welt gekommen ist, macht für die Kontur der Lebensform sicher einen Unterschied, aber vielleicht nicht gleichermaßen für die Frage, ob es sich hier um eine Lebensform handelt.“ (S. 95)
-
-**Feiges Kritik an denjenigen Behauptungen, die der KI Handlungsfähigkeit zuschreiben**  
-
-* ... 
-* ... 
-
-**Feiges alternativer Vorschlag:**
-
-* Es braucht eine *Gegen-Logik*, die in der Kunst verwirklicht werden kann (Ausblick auf die kommende Sitzung)
