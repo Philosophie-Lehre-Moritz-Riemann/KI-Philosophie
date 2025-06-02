@@ -248,9 +248,42 @@ it, giving the user the sense of “presence”: that is, the sense of really be
 
 We can also say that virtual reality technology is technology that sustains virtual reality environments. “Virtual reality” as a count noun is roughly synonymous with “virtual reality environment”, while as a mass noun it covers both virtual reality environments and virtual reality technology. The term “virtual reality” is often used in looser ways than this— sometimes so loose as to include almost any nonstandard means of generating experiences as of an external environment. To allow distinctions between grades of VR, we might say that **“VR proper” is virtual reality that satisfies all three conditions above**. We can then capture more inclusive notions of virtual reality by removing these conditions. We can start by removing the three conditions one at a time. Nonimmersive VR includes computer-generated interactive environments displayed on desktop computer or television screens, as with many familiar videogames. Noninteractive VR includes passive immersive simulations such as computer-generated movies presented on a VR headset. Non-computer-generated VR includes immersive and interactive camera-generated environments, such as the remotecontrolled robotic VR sometimes used in medicine. The label of VR is also sometimes applied to environments satisfying just one of the three conditions: immersiveness (e.g. movies filmed with 360-degree cameras and displayed on a headset), interactiveness (e.g. remote control of a robot using a desktop display of its perspective), or computer generation (e.g. a computer-generated movie displayed on a desktop). The label is not typically applied to environments that satisfy none of the three conditions, such as ordinary (two-dimensional, passive, camera-based) movies and television shows. That said, it is interesting to note that the term “la realité virtuelle” was first introduced by Antonin Artaud (1938) to apply to the theatre, which is typically noninteractive and non-computer-generated and arguably nonimmersive. There are also intermediate cases. So-called mixed reality involves immersive and interactive environments that are partly physical and partly computer-generated. The paradigm case of mixed reality is augmented reality where virtual objects are added to an ordinary physical environment. Mixed reality is typically contrasted with VR, but it can also be considered as VR in an extended sense. Ordinary unaugmented physical environments are also immersive and interactive, but they are not usually considered to be VR, except perhaps by people who think that the external world is computer-generated or that it is a mind-generated construction.
 
+## 6. Sitzung am 2.06.2025 | Handeln und Leben(sform)
+
+**Fokus:** Begriff des *Handelns*: Ontologie von Handlungen, Logik von Handlungszuschreibungen und Handlungserklärungen 
+
+Bezugnahme auf Elizabeth Anscombe, Donald Davidson, Philippa Foot und Michael Thompson 
+
+**Zentrale These dieses zweiten Teils des zweiten Kapitels:** 
+
+Unter Bezugnahme auf den Handlungsbegriff nach *handlungstheoretischen Kriterien* kann eine KI nicht handeln, „[d]enn um zu handeln, brauchen wir Akteure, die etwas als ein *Gutes* sehen und ihr Tun als Verwirklichung desselben begreifen können. Etwas als ein Gutes zu sehen, ist nur möglich, insofern man *Träger einer Lebensform* ist, die formal durch die *Einheit von Vernunft, Freiheit und Selbstbewusstsein* bestimmt ist.“ (S. 95)
+
+„*Denken und Handeln* sind Begriffe, die wir nur sinnvoll auf Träger einer Lebensform, und zwar einer *bestimmten Lebensform*, anwenden können.“ (S. 80)
+
+### Ontologie von Handlungen, Logik von Handlungsbeschreibungen & Handlungserklärungen 
+
+* **Ontologie von Handlungen (S. 83-85)**
+
+* **Logik von Handlungsbeschreibungen (S.85-86)**
+
+* **Handlungserklärungen (S. 86-89)**
 
 
+## Kann einer KI Handlungsfähigkeit zugeschrieben werden? 
 
+Nein, denn...
 
+* ...
 
+**Leben als Bedingung der Möglichkeit des Denkens und Handelns & die Rolle der spezifischen Lebensform (S. 89-96)**
 
+„Es hängt für den Begriff des Beines nicht alles daran, dass es auf der Grundlage genetischer Informationen gewachsen ist. Es hängt vielmehr daran, dass es Teil eines Lebewesens ist, in deren Lebensvollzügen es eine bestimmte Rolle spielt. Und ob die Lebensform, deren träger das Individuum ist, auf der Grundlage natürlicher Evolution oder anders in die Welt gekommen ist, macht für die Kontur der Lebensform sicher einen Unterschied, aber vielleicht nicht gleichermaßen für die Frage, ob es sich hier um eine Lebensform handelt.“ (S. 95)
+
+**Feiges Kritik an denjenigen Behauptungen, die der KI Handlungsfähigkeit zuschreiben**  
+
+* ... 
+* ... 
+
+**Feiges alternativer Vorschlag:**
+
+* Es braucht eine *Gegen-Logik*, die in der Kunst verwirklicht werden kann (Ausblick auf die kommende Sitzung)
