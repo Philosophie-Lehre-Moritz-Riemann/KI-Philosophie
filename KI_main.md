@@ -268,7 +268,7 @@ Unter Bezugnahme auf den Handlungsbegriff nach *handlungstheoretischen Kriterien
 
 * **Handlungserklärungen (S. 86-89)**
 
-### Kann einer KI Handlungsfähigkeit zugeschrieben werden?
+### Kann einer KI Handlungsfähigkeit zugeschrieben werden? 
 
 Nein, denn...
 
