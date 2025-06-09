@@ -185,6 +185,7 @@ Jerry Kaplan, Generative AI, Oxford 2024, S. 1--29. (Im OLAT)
 
 
 
+
 Referat: Emma Gräfe, Daniel Klösel
 
 **Technische Grundlagen**
@@ -198,6 +199,12 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 ### Generalthese
 
 [Zusammenfassung Feige | Stand 26.05.2025](https://www.canva.com/design/DAGoiC9K4t0/PD25Al-1pqhzGRDdeFZ5dA/view?utm_content=DAGoiC9K4t0&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+
+
+### Vortrag von Christian Schröter: Turings Maschine und Turings Test am 12.05.2025 (MoMo Berlin Philosophischer Arbeitskreis)**
+
+[Christian Schröter: Turings Maschine und Turings Test](https://www.youtube.com/watch?v=FAqfWzrr9_g)
+
 
 
 ### Think + Pair
