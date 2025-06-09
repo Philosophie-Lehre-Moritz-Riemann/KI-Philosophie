@@ -141,6 +141,8 @@ Einzeltermine siehe [Plakat](https://www.uni-kiel.de/fileadmin/user_upload/veran
 
 ## 1. Sitzung am 28.04.2025 
 
+[Glossar Künstliche Intelligenz](https://www.coco-projekt.de/wp-content/uploads/2024/03/Richter_et-al_2024_Glossar_KI-und-Arbeitsforschung.pdf)
+
 Textgrundlage:
 
 Daniel M. Feige, Kritik der Digitalisierung, S. 7-12
