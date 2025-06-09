@@ -183,6 +183,8 @@ Jerry Kaplan, Generative AI, Oxford 2024, S. 1--29. (Im OLAT)
 
 **Geschichte der AI**
 
+
+
 Referat: Emma Gräfe, Daniel Klösel
 
 **Technische Grundlagen**
@@ -202,6 +204,12 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 
 1. Wie hängen die Konzepte Blackboxing, Datifizierung und Alterisierung nach Daniel Martin Feige zusammen und inwiefern wirken sie auf die Praxis des Denkens, Handelns und Zusammenlebens ein? 
 2. Welche Rolle spielt das “Design” hierbei?
+
+### Vortrag von Christian Schröter: Turings Maschine und Turings Test am 12.05.2025 (MoMo Berlin Philosophischer Arbeitskreis)**
+
+[Christian Schröter: Turings Maschine und Turings Test](https://www.youtube.com/watch?v=FAqfWzrr9_g)
+
+
 
 ### Realism of Virtual Reality
 
