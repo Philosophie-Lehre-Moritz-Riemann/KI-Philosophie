@@ -183,7 +183,9 @@ Jerry Kaplan, Generative AI, Oxford 2024, S. 1--29. (Im OLAT)
 
 **Geschichte der AI**
 
+![Chronologie der KI-Entwicklung](Zeitstrahl%20A.png) ![Chronologie der KI-Entwicklung](Zeitstrahl%20B.png) 
 
+[Bernhard,Johannes C. 2024:"Künstliche Intelligenz. Ein Glossar in 10 Begriffsfeldern", in: Museumskunde 89, Abb. 2](https://www.museumsbund.de/wp-content/uploads/2025/05/museumskunde-2024-digital.pdf)
 
 
 Referat: Emma Gräfe, Daniel Klösel
@@ -211,12 +213,6 @@ Referat: Aleyna Soylu, Merve Örnek, Arvid Lepsien
 
 1. Wie hängen die Konzepte Blackboxing, Datifizierung und Alterisierung nach Daniel Martin Feige zusammen und inwiefern wirken sie auf die Praxis des Denkens, Handelns und Zusammenlebens ein? 
 2. Welche Rolle spielt das “Design” hierbei?
-
-### Vortrag von Christian Schröter: Turings Maschine und Turings Test am 12.05.2025 (MoMo Berlin Philosophischer Arbeitskreis)**
-
-[Christian Schröter: Turings Maschine und Turings Test](https://www.youtube.com/watch?v=FAqfWzrr9_g)
-
-
 
 ### Realism of Virtual Reality
 
@@ -302,3 +298,7 @@ Nein, denn...
 **Feiges alternativer Vorschlag:**
 
 * Es braucht eine *Gegen-Logik*, die in der Kunst verwirklicht werden kann (Ausblick auf die kommende Sitzung)
+
+
+[def]: https://www.museumsbund.de/wp-content/uploads/2025/05/museumskunde-2024-digital.pdf
+[def2]: https://www.museumsbund.de/wp-content/uploads/2025/05/museumskunde-2024-digital.pdf
