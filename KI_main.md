@@ -143,6 +143,8 @@ Einzeltermine siehe [Plakat](https://www.uni-kiel.de/fileadmin/user_upload/veran
 
 [Glossar Künstliche Intelligenz](https://www.coco-projekt.de/wp-content/uploads/2024/03/Richter_et-al_2024_Glossar_KI-und-Arbeitsforschung.pdf)
 
+
+
 Textgrundlage:
 
 Daniel M. Feige, Kritik der Digitalisierung, S. 7-12
@@ -185,9 +187,12 @@ Jerry Kaplan, Generative AI, Oxford 2024, S. 1--29. (Im OLAT)
 
 **Geschichte der AI**
 
-![Chronologie der KI-Entwicklung](Zeitstrahl%20A.png) ![Chronologie der KI-Entwicklung](Zeitstrahl%20B.png) 
+![Chronologie der KI-Entwicklung](Zeitstrahl%20A.png) 
+![Chronologie der KI-Entwicklung](Zeitstrahl%20B.png) 
 
 [Bernhard,Johannes C. 2024:"Künstliche Intelligenz. Ein Glossar in 10 Begriffsfeldern", in: Museumskunde 89, Abb. 2](https://www.museumsbund.de/wp-content/uploads/2025/05/museumskunde-2024-digital.pdf)
+
+
 
 
 Referat: Emma Gräfe, Daniel Klösel
