@@ -309,3 +309,22 @@ Nein, denn...
 
 [def]: https://www.museumsbund.de/wp-content/uploads/2025/05/museumskunde-2024-digital.pdf
 [def2]: https://www.museumsbund.de/wp-content/uploads/2025/05/museumskunde-2024-digital.pdf
+
+
+
+## Sitzung am 16.06.2025
+
+### AI und Ethik
+
+**Referat:** Viola Holling, Marcel Krüger, Lisa Claussen
+
+**Textgrundlage:** Mark Coeckelbergh: Artificial Intelligence, Responsibility Attribution, and a Relational Justification of Explainability
+
+### Feige, Teil 3
+
+**Vier Thesen:**
+
+1. Das Spezifische der Digitalisierung besteht gegenüber anderen Praxiszusammenhängen darin, dass sich in ihnen Technik derart verselbstständigt, dass es eine andere Grammatik zu entziffern gibt als diejenige dessen, was wir im verständigen Umgang mit Gegenständen im Lichte unserer Zwecke und Ziele entdecken können.
+2. Die Verselbstständigung einer entsprechenden technischen Grammatik ist als eine Radikalisierung instrumenteller Vernunft zu begreifen. In diesem Sinne ist die Digitalisierung einerseits ein Einschnitt, der eine grundlegende Transformation unserer Selbst- und Weltverhältnisse meint. Andererseits stellt das, was hier als Einschnitt verwirklicht wird, eine Verschärfung einer bereits vorgängig existierenden Logik dar. Die Digitalisierung ist somit nicht von außen oder kontingentermaßen bedroht, falschen Machtverhältnissen zuzuspielen. Daten sind kein neutrales Material, das durch die moralische Integrität der sie verarbeitenden Personen oder Prozesse zum Guten wie zum Schlechten eingesetzt werden kann.
+3. Die These, dass Künstliche Intelligenzen denken können, ist vor diesem Hintergrund als ideologisch zu begreifen. Die Agenda der Erhebung von Künstlichen Intelligenzen in den Personenstand trägt zum Verschwinden der Differenz zwischen dem, was es heißt, ein selbstbewusstes, freies und vernünftiges Lebewesen zu sein, das sich in einer sinnhaften Welt bewegt, und Formen der Musterdetektion in großen Datenmengen bei. Der Wahrheitsgehalt entsprechender Diskurse besteht nicht in dem, was sie sagen, sondern in dem, was sie dadurch performativ zu erzeugen trachten.
+4. Wie der Begriff des Denkens nicht geeignet ist, die Datenverarbeitung von Künstlichen Intelligenzen zu beschreiben, so auch nicht der Begriff des Handelns. Handeln besteht in der selbstbewussten Verwirklichung dessen, was der oder die Handelnde als ein Gutes sieht. Dazu gehört, dass die einzelnen zeitlichen Teile nichts anderes als der Beitrag zur Verwirklichung des Ziels der Handlung sind, aber eben nicht als fortwährender Ziel-Soll- Abgleich eines datenverarbeitenden Systems. Wie die These, dass KIs denken können, einer performativen Neufassung unserer selbst im Sinne einer computationalen Logik darstellt, so stellen entsprechende verkürzte Handlungsbegriffe eine Neufassung unserer selbst im Sinne einer Logik der Robotik dar. Denn nur ein Lebewesen, dass durch den Begriff der Vernunft formal bestimmt ist, kann ein handelndes Wesen sein.
