@@ -103,7 +103,7 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | 16.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Ethik); Lektüre: Kritik der Digitalisierung, S. 97-126 | Lisa Claussen, Marcel Krüger, N.N. |
 | 23.06.2025 | Sitzung bis 18:30, Referat (z.B. KI und Autorschaft); Lektüre: Kritik der Digitalisierung, S. 126-150 | Şeyda Okumuş, Sahm Kakal |
 | 30.06.2025 | Referate | Human/Computer-Interaction: Bjarne Koch, Juliane Ziemer; AI und Demokratie: Fleming Jensen, Paul Carsten, Sebastian Naudiet |
-| 07.07.2025| **Abschlussdiskussion** | -- |
+| 07.07.2025| **Abschlussdiskussion 16:45--18:30** | Hybridsitzung mit Daniel M. Feige |
 
 
 **Achtung:** In diesem Seminar gibt es keine wöchentlichen Sitzungsreferate, sondern ausschließlich ergänzende, selbstständig zu erforschende Referate zu philosophischen Aspekten von KI.
@@ -328,3 +328,13 @@ Nein, denn...
 2. Die Verselbstständigung einer entsprechenden technischen Grammatik ist als eine Radikalisierung instrumenteller Vernunft zu begreifen. In diesem Sinne ist die Digitalisierung einerseits ein Einschnitt, der eine grundlegende Transformation unserer Selbst- und Weltverhältnisse meint. Andererseits stellt das, was hier als Einschnitt verwirklicht wird, eine Verschärfung einer bereits vorgängig existierenden Logik dar. Die Digitalisierung ist somit nicht von außen oder kontingentermaßen bedroht, falschen Machtverhältnissen zuzuspielen. Daten sind kein neutrales Material, das durch die moralische Integrität der sie verarbeitenden Personen oder Prozesse zum Guten wie zum Schlechten eingesetzt werden kann.
 3. Die These, dass Künstliche Intelligenzen denken können, ist vor diesem Hintergrund als ideologisch zu begreifen. Die Agenda der Erhebung von Künstlichen Intelligenzen in den Personenstand trägt zum Verschwinden der Differenz zwischen dem, was es heißt, ein selbstbewusstes, freies und vernünftiges Lebewesen zu sein, das sich in einer sinnhaften Welt bewegt, und Formen der Musterdetektion in großen Datenmengen bei. Der Wahrheitsgehalt entsprechender Diskurse besteht nicht in dem, was sie sagen, sondern in dem, was sie dadurch performativ zu erzeugen trachten.
 4. Wie der Begriff des Denkens nicht geeignet ist, die Datenverarbeitung von Künstlichen Intelligenzen zu beschreiben, so auch nicht der Begriff des Handelns. Handeln besteht in der selbstbewussten Verwirklichung dessen, was der oder die Handelnde als ein Gutes sieht. Dazu gehört, dass die einzelnen zeitlichen Teile nichts anderes als der Beitrag zur Verwirklichung des Ziels der Handlung sind, aber eben nicht als fortwährender Ziel-Soll- Abgleich eines datenverarbeitenden Systems. Wie die These, dass KIs denken können, einer performativen Neufassung unserer selbst im Sinne einer computationalen Logik darstellt, so stellen entsprechende verkürzte Handlungsbegriffe eine Neufassung unserer selbst im Sinne einer Logik der Robotik dar. Denn nur ein Lebewesen, dass durch den Begriff der Vernunft formal bestimmt ist, kann ein handelndes Wesen sein.
+
+## Abschlusssitzung am 7. Juli 2025
+
+**Achtung: geänderte Zeit: 16:45--18:30**
+
+Teilnahme auch über Zoom möglich: [Link](https://uni-kiel.zoom-x.de/j/63961815530?pwd=ga69nmyBNUB0okSImeakvP62BqagIw.1)
+
+> Aufgabe zur Vorbereitung: Jede:r überlegt sich 1-2 ausformulierte Fragen an das Buch (oder den Autor) und schickt mir diese bis Sonntagabend per Mail.
+
+
