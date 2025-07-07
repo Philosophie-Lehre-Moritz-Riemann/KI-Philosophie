@@ -339,11 +339,8 @@ Teilnahme auch über Zoom möglich: [Link](https://uni-kiel.zoom-x.de/j/63961815
 
 ### Abschlussdiskussion
 
->Nehmt Euch 5 Minuten Zeit, um für Euch die folgenden Fragen zu beantworten:
->
->1. Welche zentralen Überlegungen, Begriffe, Konstellationen nehmt Ihr mit aus dem Seminar?
->2. Gibt es offene Fragen und Verständnisprobleme?
->
+>Bildet Zweierteams. Diskutiert offene Fragen und Verständnisprobleme in Bezug auf Feiges Buch, die Ihr gerne mit ihm besprechen wollt. Sammelt dabei auch zentrale Überlegungen, Begriffe und Konstellationen, die Ihr aus dem Seminar mitnehmt. Ihr habt 5 Minuten Zeit.
+
 
 ### Feedbackrunde
 
